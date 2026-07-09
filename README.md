@@ -4,7 +4,7 @@ Spherical-harmonic (SPHARM-PDM) surface meshes of the **choroid plexus (ChP)**,
 produced with **SlicerSALT 6.0.0** and released as an open reference for shape
 morphometry of this structure.
 
-Part of the Darby Lab (Vanderbilt) study of choroid-plexus shape and volume in
+Part of the Vanderbilt study of choroid-plexus shape and volume in
 behavioral-variant frontotemporal dementia (bvFTD), Alzheimer's disease / aMCI,
 and healthy aging, and its relationship to sleep and glymphatic function.
 
